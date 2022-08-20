@@ -1,0 +1,10 @@
+PRETTY_NAME="Amarok Linux 22.08"
+NAME="Amarok Linux"
+VERSION_ID="22.08"
+VERSION="22.08"
+ID=amarok
+VERSION_CODENAME=Rolling
+HOME_URL="https://amaroklinux.org/"
+SUPPORT_URL="https://amaroklinux.forumeiros.com/"
+BUG_REPORT_URL="https://sourceforge.net/p/amaroklinux/discussion/"
+WIKI_URL="http://wiki.amaroklinux.org/"
